@@ -21,7 +21,7 @@ public class RunClass {
         H.enteramount();
         H.finishpayment();
 
-        System.out.println (" Child Class NatwestBank ");
+        System.out.println (" Child Class NatWestBank ");
         NatWestBank N = new NatWestBank();
         N.openapp();
         N.entersecuritynumber();
@@ -30,7 +30,7 @@ public class RunClass {
         N.enteramount();
         N.finishpayment();
 
-        System.out.println (" Chld Class SantanderBank ");
+        System.out.println (" Child Class SantanderBank ");
         SantanderBank S = new SantanderBank();
         S.openapp();
         S.entersecuritynumber();
